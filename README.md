@@ -1,5 +1,7 @@
+[[!MasterHead](https://media3.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)]
 <h1 align="center">Hi 👋, I'm Ruturaj</h1>
 <h3 align="center">An Enthusiastic frontend developer from India</h3>
+<img src="https://drive.google.com/file/d/1vehsj7hBBGqoX3q9OzIOdkbYz_UnxdU7/view?usp=share_link" align="right" alt="coding" width="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruturajpatra99&label=Profile%20views&color=0e75b6&style=flat" alt="ruturajpatra99" /> </p>
 
