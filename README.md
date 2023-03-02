@@ -1,4 +1,4 @@
-[[!MasterHead](https://raw.githubusercontent.com/wahidmagdy/pixel-banner/HEAD/demo.gif)]
+
 <h1 align="center">Hi 👋, I'm Ruturaj</h1>
 <h3 align="center">An Enthusiastic frontend developer from India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="coding" width="400" />
