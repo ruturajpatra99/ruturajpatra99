@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ruturaj</h1>
 <h3 align="center">An Enthusiastic frontend developer from India</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="coding" width="400" />
+<img src="3d-casual-life-young-man-in-headphones-sitting-with-laptop-and-waving.png" align="right" alt="coding" width="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruturajpatra99&label=Profile%20views&color=0e75b6&style=flat" alt="ruturajpatra99" /> </p>
 
