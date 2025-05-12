@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ruturaj</h1>
-<h3 align="center">An Enthusiastic frontend developer from India</h3>
-<img src="3d-casual-life-young-man-in-headphones-sitting-with-laptop-and-waving.png" align="right" alt="coding" width="400" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruturajpatra99&label=Profile%20views&color=0e75b6&style=flat" alt="ruturajpatra99" /> </p>
 
@@ -9,11 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/ruturaj_patra99" target="blank"><img src="https://img.shields.io/twitter/follow/ruturaj_patra99?logo=twitter&style=for-the-badge" alt="ruturaj_patra99" /></a> </p>
 
-- 🌱 I’m currently learning **Reactjs , MERN, Java, Javascript**
 
 - 📫 How to reach me **ruturajpatra99@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_0EslmXGsNazp0NW2lYwawz_9haChdjZ/view?usp=share_link](https://drive.google.com/file/d/1_0EslmXGsNazp0NW2lYwawz_9haChdjZ/view?usp=share_link)
 
 - ⚡ Fun fact **I think I am versatile💁‍♂️**
 
